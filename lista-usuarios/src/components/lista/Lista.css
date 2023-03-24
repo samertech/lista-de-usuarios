@@ -1,0 +1,9 @@
+.lista  {
+font-family: 'Times New Roman', Times, serif;
+font-size: 40px;
+color:purple;
+}
+
+.lista  li{
+list-style: none;
+}
